@@ -1,0 +1,664 @@
+[22-Mar-2020 01:12:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/assignment/PHP/login.php on line 8
+[22-Mar-2020 01:13:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/assignment/PHP/login.php on line 8
+[22-Mar-2020 20:07:08 UTC] PHP Parse error:  syntax error, unexpected 'password' (T_STRING), expecting ',' or ')' in /home/assignment/PHP/login.php on line 9
+[22-Mar-2020 20:08:01 UTC] PHP Parse error:  syntax error, unexpected 'password' (T_STRING), expecting ',' or ')' in /home/assignment/PHP/login.php on line 9
+[22-Mar-2020 20:09:46 UTC] Your password does not match
+[22-Mar-2020 20:10:02 UTC] Your password does not match
+[22-Mar-2020 20:16:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/login.php:9) in /home/assignment/PHP/login.php on line 10
+[22-Mar-2020 20:16:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/login.php:9) in /home/assignment/PHP/login.php on line 10
+[30-Mar-2020 14:57:41 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 14:58:33 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 14:59:40 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:00:25 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:00:40 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:16:18 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:44:25 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:45:30 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:45:31 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:45:33 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:45:34 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:45:35 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:03 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:04 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:07 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:09 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:10 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:13 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:16 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:18 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:19 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:31 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:30 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:25 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:26 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:29 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:30 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:33 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:34 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:46:48 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 20:48:16 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:06:20 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:06:24 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:06:28 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:06:42 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:12:32 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:12:35 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:12:36 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:12:38 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:12:43 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:12:46 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:12:46 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:14:30 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:14:26 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:14:30 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:14:53 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:14:53 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:14:58 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:14:58 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:00 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:00 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:01 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:01 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:04 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:04 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:14 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:36 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:38 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:40 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:41 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:20:42 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:32:27 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/assignment/PHP/profileManagement.php on line 5
+[30-Mar-2020 16:32:47 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:33:02 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:34:35 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:36:08 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:36:28 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:36:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' password = '130456'' at line 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/Index.php(73): Index->execute()
+#2 /home/assignment/PHP/index.php(11): Index->resultSet()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[30-Mar-2020 16:37:22 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:37:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' password = '130456'' at line 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/Index.php(73): Index->execute()
+#2 /home/assignment/PHP/index.php(11): Index->resultSet()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[30-Mar-2020 16:38:09 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:38:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/Index.php:3) in /home/assignment/PHP/index.php on line 30
+[30-Mar-2020 16:38:45 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:38:45 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:39:41 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:40:18 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:40:31 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:40:32 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:42:10 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:43:05 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:43:06 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:44:24 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:44:24 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:44:55 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:44:56 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:45:03 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:45:03 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:47:57 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:48:25 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:49:04 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:49:50 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:50:22 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:50:42 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:51:16 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:51:17 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:51:55 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:52:17 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:52:31 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:52:31 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:53:11 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:53:18 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:54:06 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:54:44 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:54:45 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:54:49 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:55:11 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:55:20 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:56:24 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:56:31 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:56:31 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:56:50 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:57:37 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:58:14 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:58:14 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/assignment/PHP/history.php on line 25
+[30-Mar-2020 16:58:53 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:58:53 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:59:20 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 16:59:28 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:00:54 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:01:38 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:02:29 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:02:29 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:03:39 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:03:40 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:04:55 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:05:04 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:05:36 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:07:05 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:08:45 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:08:45 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:09:37 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:09:58 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:09:58 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:10:09 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:11:20 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:11:26 UTC] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home/assignment/PHP/Index.php on line 3
+[30-Mar-2020 17:11:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/Index.php:3) in /home/assignment/PHP/history.php on line 22
+[30-Mar-2020 17:24:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/assignment/PHP/history.php on line 19
+[30-Mar-2020 17:25:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/assignment/PHP/history.php on line 19
+[30-Mar-2020 17:25:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/history.php:19) in /home/assignment/PHP/history.php on line 20
+[30-Mar-2020 17:31:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/history.php:19) in /home/assignment/PHP/history.php on line 20
+[30-Mar-2020 17:43:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 64
+[30-Mar-2020 17:43:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 64
+[30-Mar-2020 17:43:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 64
+[30-Mar-2020 17:45:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:45:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:48:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 65
+[30-Mar-2020 17:48:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:48:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 67
+[30-Mar-2020 17:48:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 68
+[30-Mar-2020 17:48:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 65
+[30-Mar-2020 17:48:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:48:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 67
+[30-Mar-2020 17:48:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 68
+[30-Mar-2020 17:49:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 65
+[30-Mar-2020 17:49:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:49:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 67
+[30-Mar-2020 17:49:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 68
+[30-Mar-2020 17:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 65
+[30-Mar-2020 17:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 67
+[30-Mar-2020 17:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 68
+[30-Mar-2020 17:49:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 65
+[30-Mar-2020 17:49:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:49:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 67
+[30-Mar-2020 17:49:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 68
+[30-Mar-2020 17:49:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 65
+[30-Mar-2020 17:49:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 66
+[30-Mar-2020 17:49:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 67
+[30-Mar-2020 17:49:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/profileManagement.php:20) in /home/assignment/PHP/profileManagement.php on line 68
+[30-Mar-2020 18:48:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/logoutScript.php:2) in /home/assignment/PHP/logoutScript.php on line 3
+[30-Mar-2020 18:49:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/logoutScript.php:2) in /home/assignment/PHP/logoutScript.php on line 3
+[30-Mar-2020 19:04:39 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/assignment/PHP/login.php on line 20
+[30-Mar-2020 19:05:43 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/assignment/PHP/login.php on line 20
+[30-Mar-2020 19:06:05 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/assignment/PHP/login.php on line 20
+[30-Mar-2020 19:55:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ')' in /home/assignment/PHP/login.php on line 20
+[30-Mar-2020 19:56:35 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ')' in /home/assignment/PHP/login.php on line 20
+[30-Mar-2020 31:12:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/login.php:17) in /home/assignment/PHP/login.php on line 24
+[30-Mar-2020 31:12:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/login.php:17) in /home/assignment/PHP/login.php on line 26
+[30-Mar-2020 31:53:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'admin1' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[30-Mar-2020 22:05:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'nika' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[30-Mar-2020 22:05:53 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/registration.php on line 4
+[30-Mar-2020 22:05:57 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/registration.php on line 4
+[30-Mar-2020 22:06:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'nika' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[30-Mar-2020 22:08:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'nika' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[30-Mar-2020 22:26:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'nika' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[30-Mar-2020 22:52:33 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/assignment/PHP/profile.php on line 28
+[30-Mar-2020 22:53:45 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 31
+[30-Mar-2020 22:53:48 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 31
+[30-Mar-2020 22:53:50 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 31
+[30-Mar-2020 22:54:03 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 31
+[30-Mar-2020 22:54:09 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 31
+[30-Mar-2020 22:55:05 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/assignment/PHP/profile.php on line 28
+[30-Mar-2020 22:55:09 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/assignment/PHP/profile.php on line 28
+[30-Mar-2020 22:55:38 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/assignment/PHP/profile.php on line 28
+[30-Mar-2020 22:55:42 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/assignment/PHP/profile.php on line 28
+[30-Mar-2020 22:55:43 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/assignment/PHP/profile.php on line 28
+[30-Mar-2020 22:59:45 UTC] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:01:59 UTC] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:02:07 UTC] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:02:35 UTC] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:02:37 UTC] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:03:08 UTC] PHP Parse error:  syntax error, unexpected 'user' (T_STRING) in /home/assignment/PHP/profile.php on line 19
+[30-Mar-2020 30:03:10 UTC] PHP Parse error:  syntax error, unexpected 'user' (T_STRING) in /home/assignment/PHP/profile.php on line 19
+[30-Mar-2020 30:20:30 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 19
+[30-Mar-2020 30:20:31 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 19
+[30-Mar-2020 30:18:20 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:18:16 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:19:56 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 20
+[30-Mar-2020 30:20:29 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/assignment/PHP/profile.php on line 20
+[24-Mar-2020 00:04:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/fuelQuate.php(31): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 00:06:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'state' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/fuelQuate.php(31): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 00:19:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userId' in 'field list' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/fuelQuate.php(31): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 00:27:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'state' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/fuelQuate.php(31): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 00:29:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'state' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/fuelQuate.php(31): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 00:37:35 UTC] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 132
+[24-Mar-2020 00:37:36 UTC] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 132
+[24-Mar-2020 20:39:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'admin1' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 16:02:56 UTC] PHP Parse error:  syntax error, unexpected 'document' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 19
+[24-Mar-2020 16:02:57 UTC] PHP Parse error:  syntax error, unexpected 'document' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 19
+[24-Mar-2020 16:03:03 UTC] PHP Parse error:  syntax error, unexpected 'document' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 19
+[24-Mar-2020 16:03:05 UTC] PHP Parse error:  syntax error, unexpected 'document' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 19
+[24-Mar-2020 16:03:08 UTC] PHP Parse error:  syntax error, unexpected 'document' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 19
+[24-Mar-2020 16:05:13 UTC] PHP Parse error:  syntax error, unexpected 'document' (T_STRING) in /home/assignment/PHP/fuelQuate.php on line 19
+[24-Mar-2020 17:29:56 UTC] PHP Parse error:  syntax error, unexpected '$num' (T_VARIABLE), expecting ',' or ';' in /home/assignment/PHP/posts.php on line 124
+[24-Mar-2020 17:29:58 UTC] PHP Parse error:  syntax error, unexpected '$num' (T_VARIABLE), expecting ',' or ';' in /home/assignment/PHP/posts.php on line 124
+[24-Mar-2020 19:10:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'odashuta@gmail.com' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 20:39:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '130111' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[24-Mar-2020 22:12:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '999999' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[25-Mar-2020 01:13:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '333333' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[25-Mar-2020 01:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Index::lastInsertId() in /home/assignment/PHP/login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/assignment/PHP/login.php on line 25
+[25-Mar-2020 01:34:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'qazwsx' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/login.php(22): Index->execute()
+#2 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 03:38:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Registrationx' not found in /home/assignment/PHP/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/assignment/PHP/login.php on line 3
+[27-Mar-2020 03:39:34 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/assignment/PHP/Registrationx.php on line 3
+[27-Mar-2020 03:40:16 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/assignment/PHP/Registrationx.php on line 3
+[27-Mar-2020 03:41:11 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/assignment/PHP/Registrationx.php on line 3
+[27-Mar-2020 03:41:39 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/assignment/PHP/Registrationx.php on line 3
+[27-Mar-2020 03:42:39 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/assignment/PHP/Registrationx.php on line 3
+[27-Mar-2020 03:42:49 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/assignment/PHP/Registrationx.php on line 3
+[27-Mar-2020 03:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Registrationx' not found in /home/assignment/PHP/login.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/assignment/PHP/login.php on line 4
+[27-Mar-2020 03:44:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Registrationx' not found in /home/assignment/PHP/login.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/assignment/PHP/login.php on line 4
+[27-Mar-2020 16:29:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/assignment/PHP/Registrationx.php on line 47
+[27-Mar-2020 16:30:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/assignment/PHP/Registrationx.php on line 49
+[27-Mar-2020 17:20:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/assignment/PHP/Registrationx.php on line 60
+[27-Mar-2020 17:16:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/assignment/PHP/Registrationx.php:46
+Stack trace:
+#0 /home/assignment/PHP/Registrationx.php(28): Registrationx->checkpwd()
+#1 /home/assignment/PHP/login.php(4): Registrationx->__construct(Array)
+#2 {main}
+  thrown in /home/assignment/PHP/Registrationx.php on line 46
+[27-Mar-2020 17:16:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/Registrationx.php:32) in /home/assignment/PHP/Registrationx.php on line 39
+[27-Mar-2020 17:16:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/Registrationx.php:32) in /home/assignment/PHP/Registrationx.php on line 51
+[27-Mar-2020 17:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/assignment/PHP/Registrationx.php:46
+Stack trace:
+#0 /home/assignment/PHP/Registrationx.php(28): Registrationx->checkpwd()
+#1 /home/assignment/PHP/login.php(4): Registrationx->__construct(Array)
+#2 {main}
+  thrown in /home/assignment/PHP/Registrationx.php on line 46
+[27-Mar-2020 17:18:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/Registrationx.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): Registrationx->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 17:27:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 17:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 17:32:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/assignment/PHP/RegistrationClass.php:32) in /home/assignment/PHP/RegistrationClass.php on line 51
+[27-Mar-2020 17:33:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 17:33:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 17:37:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 17:40:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 17:44:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'qwerty' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 18:06:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'poipoi' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 18:08:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'poipoi' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 18:10:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'poipoi' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 18:11:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'poipoi' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 18:12:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'qqqqqqq' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 18:16:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaa' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/login.php(7): RegistrationClass->checkpwd()
+#3 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 18:30:24 UTC] PHP Parse error:  syntax error, unexpected 'hel' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/ProfileClass.php on line 3
+[27-Mar-2020 18:31:00 UTC] PHP Parse error:  syntax error, unexpected 'hel' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/ProfileClass.php on line 3
+[27-Mar-2020 18:32:41 UTC] PHP Parse error:  syntax error, unexpected 'hel' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/ProfileClass.php on line 3
+[27-Mar-2020 18:32:44 UTC] PHP Parse error:  syntax error, unexpected 'hel' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/ProfileClass.php on line 3
+[27-Mar-2020 18:32:52 UTC] PHP Parse error:  syntax error, unexpected 'hel' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/ProfileClass.php on line 3
+[27-Mar-2020 18:34:26 UTC] PHP Parse error:  syntax error, unexpected 'hel' (T_STRING), expecting ',' or ';' in /home/assignment/PHP/ProfileClass.php on line 3
+[27-Mar-2020 18:41:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/assignment/PHP/profileScript.php on line 5
+[27-Mar-2020 19:03:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'eeeeee' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:09:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/assignment/PHP/ProfileClass.php on line 51
+[27-Mar-2020 19:10:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/assignment/PHP/ProfileClass.php on line 51
+[27-Mar-2020 19:30:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/assignment/PHP/FuelQuoteClass.php on line 60
+[27-Mar-2020 19:32:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:32:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:32:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:33:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:34:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:34:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:35:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:36:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:36:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'userId' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(52): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(34): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 19:57:05 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/assignment/PHP/FuelQuoteClass.php:44
+Stack trace:
+#0 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#1 {main}
+  thrown in /home/assignment/PHP/FuelQuoteClass.php on line 44
+[27-Mar-2020 19:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method FuelQuoteClass::checkCookie() in /home/assignment/PHP/FuelQuoteClass.php:44
+Stack trace:
+#0 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#1 {main}
+  thrown in /home/assignment/PHP/FuelQuoteClass.php on line 44
+[27-Mar-2020 20:03:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'nick2874' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 20:14:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'nick2878' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 20:59:11 UTC] PHP Warning:  include(loginClassClass.php): failed to open stream: No such file or directory in /home/assignment/PHP/history.php on line 4
+[27-Mar-2020 20:59:11 UTC] PHP Warning:  include(): Failed opening 'loginClassClass.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/assignment/PHP/history.php on line 4
+[27-Mar-2020 20:59:11 UTC] PHP Fatal error:  Uncaught Error: Class 'loginClass' not found in /home/assignment/PHP/history.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/assignment/PHP/history.php on line 5
+[27-Mar-2020 20:59:42 UTC] PHP Warning:  include(loginClassClass.php): failed to open stream: No such file or directory in /home/assignment/PHP/history.php on line 4
+[27-Mar-2020 20:59:42 UTC] PHP Warning:  include(): Failed opening 'loginClassClass.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/assignment/PHP/history.php on line 4
+[27-Mar-2020 20:59:42 UTC] PHP Fatal error:  Uncaught Error: Class 'loginClass' not found in /home/assignment/PHP/history.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/assignment/PHP/history.php on line 5
+[27-Mar-2020 20:59:52 UTC] PHP Warning:  include(loginClassClass.php): failed to open stream: No such file or directory in /home/assignment/PHP/history.php on line 4
+[27-Mar-2020 20:59:52 UTC] PHP Warning:  include(): Failed opening 'loginClassClass.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/assignment/PHP/history.php on line 4
+[27-Mar-2020 20:59:52 UTC] PHP Fatal error:  Uncaught Error: Class 'loginClass' not found in /home/assignment/PHP/history.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/assignment/PHP/history.php on line 5
+[27-Mar-2020 31:14:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '03-31-2020' for column 'deliveryDate' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(61): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(45): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[27-Mar-2020 31:18:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '08/09/2020' for column 'deliveryDate' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(61): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(45): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[29-Mar-2020 17:32:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'nika' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[29-Mar-2020 17:57:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '2020 03 29' for column 'deliveryDate' at row 1 in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/FuelQuoteClass.php(61): Index->execute()
+#2 /home/assignment/PHP/FuelQuoteClass.php(45): FuelQuoteClass->fuelInfo()
+#3 /home/assignment/PHP/fuelQuoteScript.php(4): FuelQuoteClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[01-Apr-2020 00:01:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'mmmppp' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[01-Apr-2020 00:08:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry '222222222222' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
+[01-Apr-2020 18:44:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[30000]: Integrity constraint violation: 1062 Duplicate entry 'gtrd' for key 'userName' in /home/assignment/PHP/Index.php:68
+Stack trace:
+#0 /home/assignment/PHP/Index.php(68): PDOStatement->execute()
+#1 /home/assignment/PHP/RegistrationClass.php(47): Index->execute()
+#2 /home/assignment/PHP/RegistrationClass.php(28): RegistrationClass->checkpwd()
+#3 /home/assignment/PHP/login.php(4): RegistrationClass->__construct(Array)
+#4 {main}
+  thrown in /home/assignment/PHP/Index.php on line 68
